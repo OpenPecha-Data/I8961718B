@@ -2,15 +2,18 @@ id: I8961718B
 initial_creation_type: ebook
 source_metadata:
   id: RDI-SS-42-2
-  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  title: རྫོགས་པ་ཆེན་པོའི་ཀློང་ཆེན་སྙིང་ཏིག་གི་སྔོན་འགྲོའི་ཁྲིད་ཡིག་ཀུན་བཟང་བླ་མའི་ཞལ་ལུང་།
+    དེབ་གཉིས་པ།
   author: མཛད་པ་པོ། རྫ་དཔལ་སྤྲུལ་རིན་པོ་ཆེ།
   authors: &id001
   - མཛད་པ་པོ། རྫ་དཔལ་སྤྲུལ་རིན་པོ་ཆེ།
   sku: RDI-SS-42-2
   cover: Book-42_Cover_Part-2_Front.jpg
   volume: {}
+  title_source: epub:dc:title:ambiguous-layer
 ebook_metadata:
-  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  title: རྫོགས་པ་ཆེན་པོའི་ཀློང་ཆེན་སྙིང་ཏིག་གི་སྔོན་འགྲོའི་ཁྲིད་ཡིག་ཀུན་བཟང་བླ་མའི་ཞལ་ལུང་།
+    དེབ་གཉིས་པ།
   authors: *id001
   sku: RDI-SS-42-2
   cover: Book-42_Cover_Part-2_Front.jpg
